@@ -25,5 +25,6 @@ function dec(n){
 }
 
 function makeInt(n){
-  return paseInt(n, 10)
+ paseInt(n, 10)
+ return n
 }
